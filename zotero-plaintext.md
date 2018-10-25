@@ -1,3 +1,7 @@
+# Zotero and Plaintext Workflows
+
+## Eric Robsky Huntley (@ericmhuntley)
+
 Today, DUSPViz takes a break from the Viz and focuses on citation management using Zotero and writing using plain text (RMarkdown/knitr).
 
 While this may sound a bit dusty (but does it really?) getting your citation and document management down at the front end of your graduate career will save you an enormous, enormous, enormous amount of time later. This may also be useful for doctoral students who are feeling overwhelmed by articles and like they're drowning in Word documents and track changes.
@@ -167,8 +171,17 @@ Plus a quote:
 
 > `> `"While there may be general agreement about the integral value of critique to scienti!c and intellectual enterprises, less attention has been paid to the form and delivery of critique." `[@schuurman_care_2002, 291]`
 
-That comma syntax is how you specify a page number and the carrot (`>`) specifies that this is a quote. Easy, right? Now that we have a very simple document, we can `knit` it - click the `knit` button at the top of the screen and choose HTML (or Word document). Holy hell! That's pretty cool.
+That comma syntax is how you specify a page number and the carrot (`>`) specifies that this is a quote. Easy, right? Now that we have a very simple document, we can `knit` it - click the `knit` button at the top of the screen and choose HTML (or Word document).
 
-## Going Further
+![Rename.](./assets/html_output.png)
 
-For more information on workflows for reproducible social science, take a look at Kieran Healy's excellent resources - I use many of his templates as a base.
+Holy hell! That's pretty cool.
+
+## For more...
+
+If you're into this, I would highly recommend checking out Kieran Healy's [excellent resources on Plain-Text Social Science](https://kieranhealy.org/files/papers/plain-person-text.pdf); he's written up a long (really, very long) article justifying and explicating his workflow. It's through his resources that I was introduced to the magic of plaintext years ago. [He's also sometimes kind of funny on Twitter](https://twitter.com/kjhealy).
+
+I'd also recommend that you...
+
+1. Install [LaTeX and start playing with templating](https://www.latex-project.org/).
+2. Explore [Pandoc as an alternative to Knitr](https://pandoc.org/), for those cases where you might not need R scripting.
