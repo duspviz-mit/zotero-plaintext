@@ -1,0 +1,12 @@
+---
+title: "Citations! They're Automatic"
+author: "Eric Robsky Huntley"
+date: "10/24/2018"
+bibliography: "./test_collection.bib"
+output: html_document
+---
+
+Bruno Latour has argued that the cynical, conspiratorial sensibilities that have long permeated the critical tradition have limited
+the remit of our scholarship and prevented us from assembling publics around matters of concern [@latour_why_2004].
+
+>"While there may be general agreement about the integral value of critique to scienti!c and intellectual enterprises, less attention has been paid to the form and delivery of critique." [@schuurman_care_2002, 291]
