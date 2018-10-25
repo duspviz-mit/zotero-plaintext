@@ -2,6 +2,8 @@
 
 ## Eric Robsky Huntley (@ericmhuntley)
 
+Files for this workshop are available [here](http://web.mit.edu/ehuntley/Public/zotero-files.zip).
+
 Today, DUSPViz takes a break from the Viz and focuses on citation management using Zotero and writing using plain text (RMarkdown/knitr).
 
 While this may sound a bit dusty (but does it really?) getting your citation and document management down at the front end of your graduate career will save you an enormous, enormous, enormous amount of time later. This may also be useful for doctoral students who are feeling overwhelmed by articles and like they're drowning in Word documents and track changes.
